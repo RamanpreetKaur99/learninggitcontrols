@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitcontrolApplication {
 
+	// Comment added in branch B-1
 	public static void main(String[] args) {
 		SpringApplication.run(GitcontrolApplication.class, args);
 	}
